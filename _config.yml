@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+## 侧边栏设置
+# 是否开启侧边栏 true 开始 false 关闭
+sidebar: true
+# 侧边栏描述语句
+sidebar-about-description: "知识就是力量。"
